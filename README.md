@@ -22,7 +22,41 @@ Gracias a test con usuarios pudimos detectar los siguientes problemas a la hora 
 2) No tienen acceso a seleccionar una imagen y verla, dado que sólo pueden hacerlo a través de una galería en movimiento que no pueden controlar.
 3) Al no ver medios de pagos electrónicos para realizar la reserva sienten desconfianza.
 4) El sitio al estar desactualizado les genera desconfianza.
-5) No reciben una email de confirmación en forma inmedita.
+5) No reciben una email de confirmación en forma inmedita, sino que varias horas después.
+
+## Definición del público objetivo
+
+### User persona
+Natalie
+
+### Customer Journey Map (indicando pain y gain points)
+
+
+## Definición de la solución/producto
+
+Se entrega web intuitiva y funcional de acuerdo a los requerimientos de los usuarios.
+
+## Link a prototipo navegable
+figma
+
+## Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.
+Los contenidos fueron testeados con ténicas de Card Sorting y las funcionalidades de acuerdo a las pruebas con usuarios. Los usuarios responden de manera ágil, captamos su atención, entregándoles la información necesaria y pueden reservar sin problemas una habitación.
+
+## Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final.
+
+1) Se entrega de manera inmediata el precio de la habitación seleccionada de manera inmediata y con una fuente clara y tamaño considerable. 
+2) Le entregamos una galería funcional, donde el usuario podrá seleccionar la fotografía de manera inmediata y hacer zoom sobre la misma si lo desea.
+3) Se aclara que la forma de pago aceptada por el Hostal es sólo en efectivo en el lugar.
+4) Se realiza una actualización del sitio, de manera tal que se vea modernidad.
+5) Una vez que realiza la reserva el usuario desde el sitio mismo recibe confirmación de rececpción de la reserva y que además recibirá un email de confirmación en su direccion de correo electrónico.
+
+## Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus diseños con desarrolladores.
+PENDIENTE
+### Un video en Loom de máximo 5 minutos explicando tu documento.
+PENDIENTE
+
+### Documentos complementarios del proceso:
+https://drive.google.com/open?id=1JhvDIK9IR5jK1sZpfFUyquVhky7UU4qF
 
 
 
