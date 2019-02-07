@@ -32,7 +32,9 @@ Gracias a test con usuarios pudimos detectar los siguientes problemas a la hora 
 </p>
 
 ### Customer Journey Map (indicando pain y gain points)
-
+<p align="center">
+   <img src="imagenes/JourneyMap.jpg">
+</p>
 
 ## Definición de la solución/producto
 
