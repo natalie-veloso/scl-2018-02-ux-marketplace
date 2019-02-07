@@ -10,6 +10,9 @@ El proyecto consta en una renovación de una página web existente que correspon
    <img src="imagenes/presupuesto.jpg">
 </p>
 
+### Trello
+https://trello.com/b/eotbA211/hostal-renacimiento
+
 ## Problemas identificados en la investigación (del cliente y del usuario)
 
 Gracias a una entrevista realizada con el cliente a través de una videollamada, la cual tuvo una duración aproximada de 40 minutos, pudimos detectar los siguientes problemas:
