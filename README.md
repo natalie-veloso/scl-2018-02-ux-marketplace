@@ -27,7 +27,9 @@ Gracias a test con usuarios pudimos detectar los siguientes problemas a la hora 
 ## Definición del público objetivo
 
 ### User persona
-Natalie
+<p align="center">
+   <img src="imagenes/user-persona.jpg">
+</p>
 
 ### Customer Journey Map (indicando pain y gain points)
 
