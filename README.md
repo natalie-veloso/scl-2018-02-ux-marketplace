@@ -43,17 +43,34 @@ Gracias a test con usuarios pudimos detectar los siguientes problemas a la hora 
 ### Customer Journey Map (indicando pain y gain points)
 <p align="center">
    <img src="imagenes/JourneyMap.jpg">
-</p>
 
 ## Definición de la solución/producto
 
-Se entrega web intuitiva y funcional de acuerdo a los requerimientos de los usuarios.
+Los principales usuarios del producto son personas que frecuentan hostales ya sea por turismo o trabajo que tienen un promedio de edad de entre los 30 y 40 años.
+Los objetivos del negocio en relación al producto son: incrementar el número de reservas de habitaciones a través de su sitio de internet, ofrecer una experiencia diferente para los huéspedes así como también destacar la atención del personal del hostal, con la finalidad de crear una preferencia y recomendación del Hostal Renacimiento.
+Los objetivos de los usuarios en relación al producto son: poder tener acceso a una web que le permita visualizar rápidamente las características del hostal, sus tarifas, sus servicios y poder así realizar una reserva rapidamente.
+La propuesta de valor será transmitir un "Caracter Único" al Hostal proponiendo una experiencia colonial.
+Los contenidos que el usuario quiere ver son principalmente precios, habitaciones y servicios disponibles durante la estadía. La información que buscarán para convencerse de comprar y confiar en el hostal serán los comentarios de otros huéspedes que estaran disponibles en la barra de navegación.
+Los contenidos mas importantes se disponibilizan en la barra de navegación: Precios, Servicios, Galería, Contacto y Cometarios.
+El flujo es el siguiente:
+Interfaz I
+1) Ingresa número de personas necesitan hosperdarse
+2) Ingresa fecha en que llegarán al Hostal a hospedarse (calendario)
+3) Clickea "Buscar mi habitación"
+Interfaz II
+4) Ve inmediatamente caracteristicas de la habitacion y servicios
+5) Clickea "Ver fotos" 
+6) Clickea "Volver habitación"
+Interfaz III
+7) Confirma fecha de ingreso y salida, completando formulario de reserva, clickea "confirmar reserva"
+8) Recibe mensaje de "Reserva exitosa y envio de email".
+Creemos que el producto resuelve la problemática de la reserva de hospedaje dado que la hace intuitiva y rápida.
 
 ## Link a prototipo navegable
-figma
+https://www.figma.com/file/NqprUxJuPJAkE1dyMgodO41D/Untitled?node-id=26%3A0
 
 ## Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.
-Los contenidos fueron testeados con ténicas de Card Sorting y las funcionalidades de acuerdo a las pruebas con usuarios. Los usuarios responden de manera ágil, captamos su atención, entregándoles la información necesaria y pueden reservar sin problemas una habitación.
+Los contenidos fueron testeados con ténicas de Card Sorting y las funcionalbjeidades de acuerdo a las pruebas con usuarios. Los usuarios responden de manera ágil, captamos su atención, entregándoles la información necesaria y pueden reservar sin problemas una habitación.
 
 ## Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final.
 
