@@ -51,17 +51,16 @@ Los objetivos del negocio en relación al producto son: incrementar el número d
 Los objetivos de los usuarios en relación al producto son: poder tener acceso a una web que le permita visualizar rápidamente las características del hostal, sus tarifas, sus servicios y poder así realizar una reserva rápidamente.
 La propuesta de valor será transmitir un "Caracter Único" al Hostal proponiendo una experiencia colonial.
 Los contenidos que el usuario quiere ver son principalmente precios, habitaciones y servicios disponibles durante la estadía. La información que buscarán para convencerse de comprar y confiar en el hostal serán los comentarios de otros huéspedes que estarán disponibles en la barra de navegación.
-Los contenidos más importantes se disponibilizan en la barra de navegación: Precios, Servicios, Galería, Contacto y Comentarios.
-El flujo es el siguiente:
-Interfaz I
+Los contenidos más importantes se disponibilizan en la barra de navegación: Precios, Servicios, Galería, Contacto y Comentarios. El flujo es el siguiente:
+### Interfaz I
 1) Ingresa número de personas necesitan hosperdarse.
 2) Ingresa fecha en que llegarán al Hostal a hospedarse (calendario).
 3) Clickea "Buscar mi habitación".
-Interfaz II
+### Interfaz II
 4) Puede ver inmediatamente caracteristicas de la habitaciónn y servicios.
 5) Clickea "Ver fotos". 
 6) Clickea "Volver habitación".
-Interfaz III
+### Interfaz III
 7) Confirma fecha de ingreso y salida, completando formulario de reserva, clickea "confirmar reserva".
 8) Recibe mensaje de "Reserva exitosa y envio de email".
 Creemos que el producto resuelve la problemática de la reserva de hospedaje dado que la hace intuitiva y rápida.
