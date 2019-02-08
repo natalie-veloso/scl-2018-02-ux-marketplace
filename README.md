@@ -66,7 +66,7 @@ Los contenidos más importantes se disponibilizan en la barra de navegación: Pr
 Creemos que el producto resuelve la problemática de la reserva de hospedaje dado que la hace intuitiva y rápida.
 
 ## Link a prototipo navegable
-https://www.figma.com/file/NqprUxJuPJAkE1dyMgodO41D/Untitled?node-id=26%3A0
+https://www.figma.com/file/Z0IzxkPTE9V8i1WhsrlbE22T/Prototipo-Alta-Fidelidad-%7C-Web-Hostal-Renacimiento
 
 ## Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.
 
