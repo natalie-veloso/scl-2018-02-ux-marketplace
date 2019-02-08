@@ -81,9 +81,11 @@ Los usuarios responden de manera rápida, captamos su atención, entregándoles 
 4) Se realiza una actualización del sitio, de manera tal que se vea modernidad.
 5) Una vez que realiza la reserva el usuario desde el sitio mismo recibe confirmación de rececpción de la reserva y que además recibirá un email de confirmación en su direccion de correo electrónico.
 
-## Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus diseños con desarrolladores.
+### Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus diseños con desarrolladores.
+En proceso
 
 ### Un video en Loom de máximo 5 minutos explicando tu documento.
+En proceso
 
 ### Documentos complementarios del proceso:
 https://drive.google.com/open?id=1JhvDIK9IR5jK1sZpfFUyquVhky7UU4qF
