@@ -82,12 +82,18 @@ Los usuarios responden de manera rápida, captamos su atención, entregándoles 
 5) Una vez que realiza la reserva el usuario desde el sitio mismo recibe confirmación de rececpción de la reserva y que además recibirá un email de confirmación en su direccion de correo electrónico.
 
 ## Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus diseños con desarrolladores.
-PENDIENTE
+
 ### Un video en Loom de máximo 5 minutos explicando tu documento.
-PENDIENTE
 
 ### Documentos complementarios del proceso:
 https://drive.google.com/open?id=1JhvDIK9IR5jK1sZpfFUyquVhky7UU4qF
+
+## Ux Designers:
+
+#### Natalie Veloso
+#### Andrea De Miranda
+
+
 
 
 
