@@ -48,21 +48,21 @@ Gracias a test con usuarios pudimos detectar los siguientes problemas a la hora 
 
 Los principales usuarios del producto son personas que frecuentan hostales ya sea por turismo o trabajo que tienen un promedio de edad de entre los 30 y 40 años.
 Los objetivos del negocio en relación al producto son: incrementar el número de reservas de habitaciones a través de su sitio de internet, ofrecer una experiencia diferente para los huéspedes así como también destacar la atención del personal del hostal, con la finalidad de crear una preferencia y recomendación del Hostal Renacimiento.
-Los objetivos de los usuarios en relación al producto son: poder tener acceso a una web que le permita visualizar rápidamente las características del hostal, sus tarifas, sus servicios y poder así realizar una reserva rapidamente.
+Los objetivos de los usuarios en relación al producto son: poder tener acceso a una web que le permita visualizar rápidamente las características del hostal, sus tarifas, sus servicios y poder así realizar una reserva rápidamente.
 La propuesta de valor será transmitir un "Caracter Único" al Hostal proponiendo una experiencia colonial.
-Los contenidos que el usuario quiere ver son principalmente precios, habitaciones y servicios disponibles durante la estadía. La información que buscarán para convencerse de comprar y confiar en el hostal serán los comentarios de otros huéspedes que estaran disponibles en la barra de navegación.
-Los contenidos mas importantes se disponibilizan en la barra de navegación: Precios, Servicios, Galería, Contacto y Cometarios.
+Los contenidos que el usuario quiere ver son principalmente precios, habitaciones y servicios disponibles durante la estadía. La información que buscarán para convencerse de comprar y confiar en el hostal serán los comentarios de otros huéspedes que estarán disponibles en la barra de navegación.
+Los contenidos más importantes se disponibilizan en la barra de navegación: Precios, Servicios, Galería, Contacto y Comentarios.
 El flujo es el siguiente:
 Interfaz I
-1) Ingresa número de personas necesitan hosperdarse
-2) Ingresa fecha en que llegarán al Hostal a hospedarse (calendario)
-3) Clickea "Buscar mi habitación"
+1) Ingresa número de personas necesitan hosperdarse.
+2) Ingresa fecha en que llegarán al Hostal a hospedarse (calendario).
+3) Clickea "Buscar mi habitación".
 Interfaz II
-4) Ve inmediatamente caracteristicas de la habitacion y servicios
-5) Clickea "Ver fotos" 
-6) Clickea "Volver habitación"
+4) Puede ver inmediatamente caracteristicas de la habitaciónn y servicios.
+5) Clickea "Ver fotos". 
+6) Clickea "Volver habitación".
 Interfaz III
-7) Confirma fecha de ingreso y salida, completando formulario de reserva, clickea "confirmar reserva"
+7) Confirma fecha de ingreso y salida, completando formulario de reserva, clickea "confirmar reserva".
 8) Recibe mensaje de "Reserva exitosa y envio de email".
 Creemos que el producto resuelve la problemática de la reserva de hospedaje dado que la hace intuitiva y rápida.
 
@@ -70,7 +70,9 @@ Creemos que el producto resuelve la problemática de la reserva de hospedaje dad
 https://www.figma.com/file/NqprUxJuPJAkE1dyMgodO41D/Untitled?node-id=26%3A0
 
 ## Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.
-Los contenidos fueron testeados con ténicas de Card Sorting y las funcionalbjeidades de acuerdo a las pruebas con usuarios. Los usuarios responden de manera ágil, captamos su atención, entregándoles la información necesaria y pueden reservar sin problemas una habitación.
+
+Todos los contenidos y funcionalidades se realizaron en base a técnicas de investigación, como entrevista, benchmark, card sorting, testeo de la página web actual y de esa manera logramos detectar cuáles eran las falencias del sitio web, lo que nos llevó a las decisiones de rediseño, considerando un diseño moderno, intuitivo y ágil así como también fuera capaz de proponer una experiencia única conectando a sus huéspedes no sólo con una estructura sino también mobiliario colonial "un viaje a en el timpo".
+Los usuarios responden de manera rápida, captamos su atención, entregándoles la información necesaria y pueden reservar sin problemas una habitación.
 
 ## Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final.
 
