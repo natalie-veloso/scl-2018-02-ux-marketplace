@@ -66,7 +66,7 @@ Los contenidos más importantes se disponibilizan en la barra de navegación: Pr
 Creemos que el producto resuelve la problemática de la reserva de hospedaje dado que la hace intuitiva y rápida.
 
 ## Link a prototipo navegable
-https://www.figma.com/file/NqprUxJuPJAkE1dyMgodO41D/Untitled?node-id=26%3A0
+https://www.figma.com/file/Z0IzxkPTE9V8i1WhsrlbE22T/Prototipo-Alta-Fidelidad-%7C-Web-Hostal-Renacimiento
 
 ## Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.
 
@@ -81,13 +81,21 @@ Los usuarios responden de manera rápida, captamos su atención, entregándoles 
 4) Se realiza una actualización del sitio, de manera tal que se vea modernidad.
 5) Una vez que realiza la reserva el usuario desde el sitio mismo recibe confirmación de rececpción de la reserva y que además recibirá un email de confirmación en su direccion de correo electrónico.
 
-## Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus diseños con desarrolladores.
-PENDIENTE
+### Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus diseños con desarrolladores.
+En proceso
+
 ### Un video en Loom de máximo 5 minutos explicando tu documento.
-PENDIENTE
+En proceso
 
 ### Documentos complementarios del proceso:
 https://drive.google.com/open?id=1JhvDIK9IR5jK1sZpfFUyquVhky7UU4qF
+
+## Ux Designers:
+
+#### Natalie Veloso
+#### Andrea De Miranda
+
+
 
 
 
