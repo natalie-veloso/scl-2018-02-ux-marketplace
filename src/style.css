@@ -4,7 +4,7 @@
     background-color: #A93C3C;
     padding-left: 50px;
 }
-/*modifico bloque de footer*/
+/*modifica bloque de footer*/
 
 html {
     line-height: 1.5;
@@ -16,14 +16,17 @@ html {
 
 .imagensitio {
     float: right;
+    height: 100%;
+    max-width: 100%;   /*ancho de foto principal de inicio*/
 }
 
 .nav-wrapper {
-    background-color:white;
+    background-color:whitesmoke;
     color: black;
-    height: 100px !important; 
-    box-shadow: #FAB446;    
-}
+    height: 100px !important;   
+    text-align: left;
+    padding-top: 30px;
+}/*fondo navbar*/
     
 nav ul a {
     color: black;
@@ -31,6 +34,7 @@ nav ul a {
 
 h3 {
     padding-left: 50px;
+    padding-top: 100px;
 } /*texto "Te invitamos a ....*/
 
 h4 {
@@ -48,4 +52,9 @@ img.responsive-img {
     padding-left: 50px;
 } /*logotipo Renacimiento*/
 
-
+.idioma1 {
+border-radius: 50px;
+}
+.browser-default {
+    float: right;
+}
