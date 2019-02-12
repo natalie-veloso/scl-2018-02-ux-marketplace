@@ -42,8 +42,14 @@ h4 {
     padding-left: 50px;
 } /*texto "Desde 30 USD"*/
 
+#cantidadhuespedes {
+padding-left: 50px;
+width: 95%;
+} /* id para select de numero de personas*/
+
 h5 {
     padding-left: 50px;  
+    
 }
 
 img.responsive-img {    
