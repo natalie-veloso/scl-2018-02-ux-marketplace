@@ -1,0 +1,51 @@
+.page-footer {
+    padding-top: 20px;
+    color: #fff;
+    background-color: #A93C3C;
+    padding-left: 50px;
+}
+/*modifico bloque de footer*/
+
+html {
+    line-height: 1.5;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    font-weight: normal;
+    color: rgba(0,0,0,0.87);
+}
+/*este es el html del footer*/
+
+.imagensitio {
+    float: right;
+}
+
+.nav-wrapper {
+    background-color:white;
+    color: black;
+    height: 100px !important; 
+    box-shadow: #FAB446;    
+}
+    
+nav ul a {
+    color: black;
+} /*color de las secciones del navbar*/
+
+h3 {
+    padding-left: 50px;
+} /*texto "Te invitamos a ....*/
+
+h4 {
+    color: #FAB446;
+    padding-left: 50px;
+} /*texto "Desde 30 USD"*/
+
+h5 {
+    padding-left: 50px;  
+}
+
+img.responsive-img {    
+    max-width: 20%;
+    height: auto;
+    padding-left: 50px;
+} /*logotipo Renacimiento*/
+
+
