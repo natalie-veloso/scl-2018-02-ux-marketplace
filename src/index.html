@@ -29,8 +29,8 @@
                             <li><a href="#">Galería</a></li>
                             <li><a href="#">Contacto</a></li>
                             <li><a href="#">Comentarios</a></li>
-                            <li><a href="#"><img class="idiom1 id=" banderainglesa" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62e1e03dfb1d72540da0b7/d6df58446be98ee3b487845d82943ed0/bandera-inglaterra.png" /></a></li>
-                            <li><a href="#"><img class="idiom2 id=" banderaespañola" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62e1e03dfb1d72540da0b7/65d9161dbb4e800977716b77d8339187/bandera-espa%C3%B1a.png" /></a></li>
+                            <li><a href="#"><img class="idiom1" id="banderainglesa" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62e1e03dfb1d72540da0b7/d6df58446be98ee3b487845d82943ed0/bandera-inglaterra.png" /></a></li>
+                            <li><a href="#"><img class="idiom2" id="banderaespañola" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62e1e03dfb1d72540da0b7/65d9161dbb4e800977716b77d8339187/bandera-espa%C3%B1a.png" /></a></li>
                         </ul>
                     </div>
                 </nav>
@@ -47,20 +47,35 @@
             <br>
             <br>
             <br>
-            <h5>¿Cuántas personas se hospedarán?</h5>
-            <select class="browser-default" id="cantidadhuespedes">
-                    <option value="" disabled selected>Elige la cantidad</option>
-                    <option value="1">1 Persona</option>
-                    <option value="2">2 Personas</option>
-                    <option value="3">3 Personas</option>
-                    <option value="3">4 Personas</option>
-                    <option value="3">5 Personas</option>
-                    <option value="3">6 Personas</option>
-                  </select>
+            <div class="personas">
+                <div class="row">
+                    <div class="col2">
+                        <h5>¿Cuántas personas se hospedarán?</h5>
+                        <select class="browser-default" id="cantidadhuespedes">
+                            <option value="" disabled selected>Elige la cantidad</option>
+                            <option value="1">1 Persona</option>
+                            <option value="2">2 Personas</option>
+                            <option value="3">3 Personas</option>
+                            <option value="3">4 Personas</option>
+                            <option value="3">5 Personas</option>
+                            <option value="3">6 Personas</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
             <br>
             <br>
             <br>
             <h5>¿En qué fecha llegarán?</h5>
+            <br>
+            <br>
+            <input type="date" class="calendario" id="fecha">
+            <br>
+            <br>
+            <br>
+            <button class="btn" type="submit" name="action">BUSCAR MI HABITACION<i class="material-icons right"></i>
+            </button>
         </div>
         <div class="col l7">
             <img class="imagensitio" src="http://www.hostalrenacimientocusco.com/imagenes/p.JPG" alt="">
@@ -73,9 +88,16 @@
                 <p class="grey-text text-lighten-4">+51 (84) 221596</p>
                 <p class="grey-text text-lighten-4">rapart@gmail.com</p>
             </div>
-            <div class="col l4 offset s12">
-                <p class="grey-text text-lighten-4">¿Quiénes somos?</p>
-                <p class="grey-text text-lighten-4">¿Qué hacer en Cusco?</p>
+            <div class="col l4">
+                <ul>
+                    <li><a class="grey-text text-lighten-3" href="#!">¿Quiénes somos?</a></li>
+                    <br>
+                    <li><a class="grey-text text-lighten-3" href="#!">¿Qué hacer en Cusco?</a></li>
+            </div>
+            <div class="col l2">
+                <li><a class="grey-text text-lighten-3" href="#!"><img class="link1" id="booking" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62cb972d87300e4facdf02/591c65f609ffb38f091fd20fe14d8cb8/logo-booking.png"></a></li>
+                <br>
+                <li><a class="grey-text text-lighten-3" href="#!"><img class="link1" id="booking" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62cb972d87300e4facdf02/c2b02fcf9cd9280ee9ec988897c5f584/logo-tripadvisor.png"></a></li>
             </div>
         </div>
     </footer>
