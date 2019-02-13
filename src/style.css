@@ -64,3 +64,10 @@ border-radius: 50px;
 .browser-default {
     float: right;
 }
+
+#Buscarhab {
+    width: 239px;
+height: 48px;
+border-radius: 10px;
+background-color: #fab446;
+}
