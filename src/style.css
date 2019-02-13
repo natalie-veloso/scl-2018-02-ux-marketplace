@@ -21,7 +21,7 @@ html {
 }
 
 .nav-wrapper {
-    background-color:whitesmoke;
+    background-color:#FAB446;
     color: black;
     height: 100px !important;   
     text-align: left;
@@ -29,7 +29,7 @@ html {
 }/*fondo navbar*/
     
 nav ul a {
-    color: black;
+    color: white;
 } /*color de las secciones del navbar*/
 
 h3 {
@@ -43,13 +43,14 @@ h4 {
 } /*texto "Desde 30 USD"*/
 
 #cantidadhuespedes {
-padding-left: 50px;
-width: 95%;
+    height: 48px;
+    width: 239px;
+    float: right;
 } /* id para select de numero de personas*/
 
 h5 {
     padding-left: 50px;  
-    
+    font-family: 'Roboto', sans-serif;  
 }
 
 img.responsive-img {    
@@ -65,10 +66,20 @@ border-radius: 50px;
     float: right;
 }
 
-#Buscarhab {
+.btn {
     width: 239px;
 height: 48px;
 border-radius: 10px;
 background-color: #fab446;
+color: black;
+float: right; 
+
 }
+
+#fecha {
+    height: 48px;
+    width: 239px;
+    float: right;
+}
+
 
