@@ -1,4 +1,4 @@
-.page-footer {
+#pie {
     padding-top: 20px;
     color: white;
     background-color: #DADADA;
@@ -40,9 +40,9 @@ h4 {
     float: right;
 } /* id para select de numero de personas*/
 
-h5 {
+    .iniciopp, .segundapp {
     padding-left: 50px;  
-}
+}/*h5 de la primera interfaz*/
 
 img.responsive-img {    
     max-width: 20%;
@@ -57,7 +57,7 @@ border-radius: 50px;
     float: right;
 }
 
-.btn {
+.btn1 {
     width: 239px;
 height: 48px;
 border-radius: 10px;
@@ -88,22 +88,19 @@ color: #979797;
     height: 340px;
 }
 
-.imghabitacion1, .imghabitacion2, .imghabitacion3 {
-    width: 130px;
-    height: 100px;
+.cocina, .bano {
+    width: 208px;
+    height: 200px;
 }
 
-.titulo, .disp, .precio, .iconopersona, .iconocama, {
-    align-content: center;
-    }
+.btn2 {
+    width: 239px;
+height: 48px;
+border-radius: 10px;
+background-color: #fab446;
+color: black;
 
-p {
-    align-content: center;
 }
-
-.contenedor2 {
-    float: right;
+#fotos {
+    float: left;
 }
-
-
-
