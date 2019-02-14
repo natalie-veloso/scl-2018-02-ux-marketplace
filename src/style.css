@@ -1,18 +1,10 @@
 .page-footer {
     padding-top: 20px;
-    color: #fff;
-    background-color: #A93C3C;
+    color: white;
+    background-color: #DADADA;
     padding-left: 50px;
 }
 /*modifica bloque de footer*/
-
-html {
-    line-height: 1.5;
-    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
-    font-weight: normal;
-    color: rgba(0,0,0,0.87);
-}
-/*este es el html del footer*/
 
 .imagensitio {
     float: right;
@@ -50,7 +42,6 @@ h4 {
 
 h5 {
     padding-left: 50px;  
-    font-family: 'Roboto', sans-serif;  
 }
 
 img.responsive-img {    
@@ -81,5 +72,31 @@ float: right;
     width: 239px;
     float: right;
 }
+
+.direccion, .telefono, .email {
+color: #979797;
+}
+
+/* segunda interfaz "habitacion"*/
+
+#habitacion {
+    display: none;
+}
+
+.imghabitacionprinc {
+    width: 420px;
+    height: 340px;
+}
+
+.imghabitacion1, .imghabitacion2, .imghabitacion3 {
+    width: 130px;
+    height: 100px;
+}
+
+.titulo, p {
+    float: right;
+}
+
+
 
 
