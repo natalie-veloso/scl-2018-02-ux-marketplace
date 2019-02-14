@@ -16,80 +16,14 @@
     <title>El Renacimiento</title>
 </head>
 
-
 <body>
-    <div class="contenedor">
-        <!--NAVBAR-->
-        <!--INICIO DIV DE CONTENIDO PRIMERA PAGINA-->
-        <div class="inicio" id="inicioselectpersonas">
-            <header>
-                <nav>
-                    <div class="nav-wrapper">
-                        <a href="#" class="brand-logo left"><img class="responsive-img" id="logo" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62e1e03dfb1d72540da0b7/4c9c67cc82f458863f5aa7752c029b7f/Logo_Apart_Hotel2.png" /></a>
-                        <ul id="nav-mobile" class="right hide-on-med-and-down">
-                            <li><a href="#">Precios</a></li>
-                            <li><a href="#">Servicios</a></li>
-                            <li><a href="#">Galería</a></li>
-                            <li><a href="#">Contacto</a></li>
-                            <li><a href="#">Comentarios</a></li>
-                            <li><a href="#"><img class="idiom1" id="banderainglesa" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62e1e03dfb1d72540da0b7/d6df58446be98ee3b487845d82943ed0/bandera-inglaterra.png" /></a></li>
-                            <li><a href="#"><img class="idiom2" id="banderaespañola" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62e1e03dfb1d72540da0b7/65d9161dbb4e800977716b77d8339187/bandera-espa%C3%B1a.png" /></a></li>
-                        </ul>
-                    </div>
-                </nav>
-            </header>
-
-            <div class="row">
-                <div class="col l5">
-                    <h3>
-                        Te invitamos a vivir una experiencia en la época colonial de nuestro querido Cusco
-                    </h3>
-                    <h4>Desde 30 USD</h4>
-                    <br>
-                    <br>
-                    <br>
-                    <div class="personas">
-                        <div class="row">
-                            <div class="col9">
-                                <h5>¿Cuántas personas se hospedarán?</h5>
-                                <select class="browser-default" id="cantidadhuespedes">
-                                    <option value="" disabled selected>Elige la cantidad</option>
-                                    <option value="1">1 Persona</option>
-                                    <option value="2">2 Personas</option>
-                                    <option value="3">3 Personas</option>
-                                    <option value="3">4 Personas</option>
-                                    <option value="3">5 Personas</option>
-                                    <option value="3">6 Personas</option>
-                                </select>
-                            </div>
-                        </div>
-                    </div>
-                    <br>
-                    <br>
-                    <br>
-                    <h5>¿En qué fecha llegarán?</h5>
-                    <br>
-                    <br>
-                    <input type="date" class="calendario" id="fecha">
-                    <br>
-                    <br>
-                    <br>
-
-                    <button onclick="clic()" id="boton" class="btn" type="submit" name="action">BUSCAR MI HABITACION<i
-                            class="material-icons right"></i>
-                    </button>
-                </div>
-                <div class="col l7">
-                    <img class="imagensitio" src="http://www.hostalrenacimientocusco.com/imagenes/p.JPG" alt="">
-                </div>
-            </div>
-        </div><!-- CIERRE DE DIV FIN DE CONTENIDO PRIMERA PAGINA-->
-
-        <!--INICIO DIV SEGUNDA PAGINA-->
-        <div class="segunda" id="habitacion">
+    <!--NAVBAR-->
+    <!--INICIO DIV DE CONTENIDO PRIMERA PAGINA-->
+    <div class="contenedor" id="inicioselectpersonas">
+        <header>
             <nav>
                 <div class="nav-wrapper">
-                    <a href="#" class="brand-logo left"><img class="responsive-img" id="logo" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62e1e03dfb1d72540da0b7/4c9c67cc82f458863f5aa7752c029b7f/Logo_Apart_Hotel2.png" /></a>
+                    <a href="#" class="brand-logo left"><img class="responsive-img" id="logo" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62e1e03dfb1d72540da0b7/0a8f3e786a85344a9d2cde75f3f21d89/logo_renacimiento_blanco.png" /></a>
                     <ul id="nav-mobile" class="right hide-on-med-and-down">
                         <li><a href="#">Precios</a></li>
                         <li><a href="#">Servicios</a></li>
@@ -98,84 +32,181 @@
                         <li><a href="#">Comentarios</a></li>
                         <li><a href="#"><img class="idiom1" id="banderainglesa" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62e1e03dfb1d72540da0b7/d6df58446be98ee3b487845d82943ed0/bandera-inglaterra.png" /></a></li>
                         <li><a href="#"><img class="idiom2" id="banderaespañola" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62e1e03dfb1d72540da0b7/65d9161dbb4e800977716b77d8339187/bandera-espa%C3%B1a.png" /></a></li>
-                        <li><a href="#"><img class="inicio" id="home" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62e1e03dfb1d72540da0b7/f03276df3fbe8ff9be30b27d04f1cef6/boton-home.jpg" /></a></li>
                     </ul>
                 </div>
             </nav>
-<br>
-<br>
-<br>
-        <div class= "contenedor1">
-            <div class="row">
-                <div class="col l7">
-                    <h5 class="titulo">Habitación Matrimonial</h5>
-                    <h4 class="disp">DISPONIBLE</h4>
-                    <h4 class="precio">30 USD</h4>
-                    <img class="iconopersona" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62e1e03dfb1d72540da0b7/cb821f34ffa65b06290eef6288613d86/persona.png">
-                    <img class="iconocama" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62e1e03dfb1d72540da0b7/a919734ad6ef4cbcf43dba4b1c61062b/cama.png">
+        </header>
+        <div class="row">
+            <div class="col l6">
+                <h3>
+                    Te invitamos a vivir una experiencia en la época colonial de nuestro querido Cusco
+                </h3>
+                <h4>Desde 30 USD</h4>
+                <br>
+                <br>
+                <br>
+                <br>
+                <div class="row">
+                    <div class="col l8">
+                        <h5 class="iniciopp">¿Cuántas personas se hospedarán?</h5>
+                    </div>
+                    <div class="col l4">
+                        <select class="browser-default" id="cantidadhuespedes">
+                            <option value="" disabled selected>Elige la cantidad</option>
+                            <option value="1">1 Persona</option>
+                            <option value="2">2 Personas</option>
+                            <option value="3">3 Personas</option>
+                            <option value="3">4 Personas</option>
+                            <option value="3">5 Personas</option>
+                            <option value="3">6 Personas</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col l8">
+                        <h5 class="segundapp">¿En qué fecha llegarán?</h5>
+                    </div>
+                    <div class="col l4">
+                        <input type="date" class="calendario" id="fecha">
+                    </div>
+                </div>
+                <br>
+                <br>
+                <br>
+                <div class="row">
+                    <div class="col l12">
+                        <button onclick="clic()" id="boton" class="btn1" type="submit" name="action">BUSCAR MI
+                            HABITACION<i class="material-icons right"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="col l6">
+                <div class="fpuerta">
+                    <img class="imagensitio" src="http://www.hostalrenacimientocusco.com/imagenes/p.JPG" alt="">
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <div class="contenedor" id="pie">
+                <div class="row">
+                    <div class="col l4">
+                        <p class="direccion">Calle Ceniza 331, Cusco - Perú</p>
+                        <p class="telefono">+51 (84) 221596</p>
+                        <p class="email">rapart@gmail.com</p>
+                    </div>
+                    <div class="col l4">
+                        <ul>
+                            <li><a class="quienes" href="#!">¿Quiénes somos?</a></li>
+                            <br>
+                            <li><a class="qhacer" href="#!">¿Qué hacer en Cusco?</a></li>
+                    </div>
+                    <div class="col l4">
+                        <li><a href="#!"><img class="link1" id="booking" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62cb972d87300e4facdf02/591c65f609ffb38f091fd20fe14d8cb8/logo-booking.png"></a></li>
+                        <br>
+                        <li><a href="#!"><img class="link2" id="tripadvisor" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62cb972d87300e4facdf02/c2b02fcf9cd9280ee9ec988897c5f584/logo-tripadvisor.png"></a></li>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <!--FIN DE PRIMERA PAGINA-->
+
+    <!--INICIO DE SEGUNDA PAGINA-->
+    <div class="contenedor" id="habitacion">
+        <nav>
+            <div class="nav-wrapper">
+                <a href="#" class="brand-logo left"><img class="responsive-img" id="logo" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62e1e03dfb1d72540da0b7/0a8f3e786a85344a9d2cde75f3f21d89/logo_renacimiento_blanco.png" /></a>
+                <ul id="nav-mobile" class="right hide-on-med-and-down">
+                    <li><a href="#">Precios</a></li>
+                    <li><a href="#">Servicios</a></li>
+                    <li><a href="#">Galería</a></li>
+                    <li><a href="#">Contacto</a></li>
+                    <li><a href="#">Comentarios</a></li>
+                    <li><a href="#"><img class="idiom1" id="banderainglesa" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62e1e03dfb1d72540da0b7/d6df58446be98ee3b487845d82943ed0/bandera-inglaterra.png" /></a></li>
+                    <li><a href="#"><img class="idiom2" id="banderaespañola" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62e1e03dfb1d72540da0b7/65d9161dbb4e800977716b77d8339187/bandera-espa%C3%B1a.png" /></a></li>
+                </ul>
+            </div>
+        </nav>
+        <br>
+        <br>
+        <br>
+        <div class="row">
+            <div class="col l4">
+                <img class="imghabitacionprinc" src="imagenes/habitacion.jpeg" alt="">
+                <img class="cocina" src="imagenes/cocina.jpeg" alt="">
+                <img class="bano" src="imagenes/bano.jpeg" alt="">
+            </div>
+            <br>
+            <br>
+            <div class="col l2">
+                <div class="detallehab1">
+                    <h5>Servicios</h5>
                     <p>Baño privado</p>
                     <p>Agua caliente las 24hs</p>
                     <p>Toallas</p>
                     <p>Desayuno GRATIS</p>
                     <p>Wifi GRATIS</p>
                     <p>TV Cable</p>
-                    <p>Check-in  12 am</p>
-                    <p>Check-out  10 am</p>
-                
+                    <p>Todo lo que necesitas para preparar y conservar alimentos:</p>
+                    <p>Horno microondas</p>
+                    <p>Hervidor</p>
+                    <p>Refrigerador</p>
+                    <p>Vajilla</p>
+                    <p>Utensillos de cocina</p>
                 </div>
-                  <!--  <img class="imghabitacionprinc" src="http://www.hostalrenacimientocusco.com/imagenes/ia.jpg" alt="">
-                    <div class="col l12">
-                        <img class="imghabitacion1" src="imagenes/habitacionmatrimonial.jpeg" alt="">
-                        <img class="imghabitacion2" src="imagenes/bano2.jpeg" alt="">
-                        <img class="imghabitacion3" src="imagenes/cocina.jpeg" alt="">
-                        -->
-                        
-                    </div>
-
-
-                    <div class= "contenedor2">
-
-                        <div class="Todoloque">
-                            <p>Todo lo que necesitas para preparar y conservar tus alimentos</p>
-
-
-
-                        </div>
-
-
-
-                   
-
-
-                    
+            </div>
+            <div class="col l2">
+                <div class="detallehab2">
+                    <h5>Habitación Matrimonial</h5>
+                    <h5>DISPONIBLE</h5>
+                    <h5>48 USD</h5>
+                    <img class="iconopersona" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62e1e03dfb1d72540da0b7/c5a8574f58288040aeb4d9f209636b47/icono-personas.png">
+                    <img class="iconocama" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62e1e03dfb1d72540da0b7/2baa0487025249358623a808fccd6934/icono-cama2.png">
+                    <p>* El pago se realiza sólo en efectivo, directamente con nosotros</p>
+                    <br>
+                    <br>
+                    <button onclick="clic()" id="boton2" class="btn2" type="submit" name="action">RESERVAR AHORA<i
+                            class="material-icons right"></i>
                 </div>
             </div>
         </div>
+    
 
-
-        <!--FIN CONTENIDO PRIMERA PAGINA-->
-
-        <footer class="page-footer">
-            <div class="row">
-                <div class="col l4">
-                    <p class="direccion">Calle Ceniza 331, Cusco - Perú</p>
-                    <p class="telefono">+51 (84) 221596</p>
-                    <p class="email">rapart@gmail.com</p>
-                </div>
-                <div class="col l4">
-                    <ul>
-                        <li><a class="quienes" href="#!">¿Quiénes somos?</a></li>
+    <footer>
+            <div class="contenedor" id="pie">
+                <div class="row">
+                    <div class="col l4">
+                        <p class="direccion">Calle Ceniza 331, Cusco - Perú</p>
+                        <p class="telefono">+51 (84) 221596</p>
+                        <p class="email">rapart@gmail.com</p>
+                    </div>
+                    <div class="col l4">
+                        <ul>
+                            <li><a class="quienes" href="#!">¿Quiénes somos?</a></li>
+                            <br>
+                            <li><a class="qhacer" href="#!">¿Qué hacer en Cusco?</a></li>
+                    </div>
+                    <div class="col l4">
+                        <li><a href="#!"><img class="link1" id="booking" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62cb972d87300e4facdf02/591c65f609ffb38f091fd20fe14d8cb8/logo-booking.png"></a></li>
                         <br>
-                        <li><a class="qhacer" href="#!">¿Qué hacer en Cusco?</a></li>
-                </div>
-                <div class="col l2">
-                    <li><a href="#!"><img class="link1" id="booking" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62cb972d87300e4facdf02/591c65f609ffb38f091fd20fe14d8cb8/logo-booking.png"></a></li>
-                    <br>
-                    <li><a href="#!"><img class="link2" id="tripadvisor" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62cb972d87300e4facdf02/c2b02fcf9cd9280ee9ec988897c5f584/logo-tripadvisor.png"></a></li>
+                        <li><a href="#!"><img class="link2" id="tripadvisor" src="https://trello-attachments.s3.amazonaws.com/5c5046dee4f11d0a2b87f9c5/5c62cb972d87300e4facdf02/c2b02fcf9cd9280ee9ec988897c5f584/logo-tripadvisor.png"></a></li>
+                    </div>
                 </div>
             </div>
         </footer>
+
     </div>
+
+
+
+
+
+
+
+
+
+
 </body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js">
 </script>
