@@ -93,10 +93,17 @@ color: #979797;
     height: 100px;
 }
 
-.titulo, .disp {
-    float: right;
+.titulo, .disp, .precio, .iconopersona, .iconocama, {
+    align-content: center;
+    }
+
+p {
+    align-content: center;
 }
 
+.contenedor2 {
+    float: right;
+}
 
 
 
