@@ -93,7 +93,7 @@ color: #979797;
     height: 100px;
 }
 
-.titulo, p {
+.titulo, .disp {
     float: right;
 }
 
