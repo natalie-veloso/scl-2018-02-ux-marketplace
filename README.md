@@ -37,7 +37,7 @@ Gracias a test con usuarios pudimos detectar los siguientes problemas a la hora 
 
 ### User persona
 <p align="center">
-   <img src="https://drive.google.com/file/d/1QSGsjiqv-TzEip2U6iKFMa4jUKaKRchI/view?usp=sharing">
+   <img src="https://imgur.com/rSFttPf">
 </p>
 
 ### Customer Journey Map (indicando pain y gain points)
