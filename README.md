@@ -7,7 +7,7 @@ El proyecto consta en una renovación de una página web existente que correspon
 ## Planeamiento y presupuesto
 
 <p align="center">
-   <img src="imagenes/presupuesto.jpg">
+   <img src="https://drive.google.com/file/d/1A4kWVlMjtTRVy9SpplYXS8UQeyNPYArT/view?usp=sharing">
 </p>
 
 ### Trello
@@ -37,12 +37,12 @@ Gracias a test con usuarios pudimos detectar los siguientes problemas a la hora 
 
 ### User persona
 <p align="center">
-   <img src="imagenes/user-persona.jpg">
+   <img src="https://drive.google.com/file/d/1QSGsjiqv-TzEip2U6iKFMa4jUKaKRchI/view?usp=sharing">
 </p>
 
 ### Customer Journey Map (indicando pain y gain points)
 <p align="center">
-   <img src="imagenes/JourneyMap.jpg">
+   <img src="https://drive.google.com/file/d/1UPEn9ghHZerF5GsuuORhAFudA-EL1MPx/view?usp=sharing">
 
 ## Definición de la solución/producto
 
