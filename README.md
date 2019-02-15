@@ -85,7 +85,7 @@ Los usuarios responden de manera rápida, captamos su atención, entregándoles 
 En proceso
 
 ### Un video en Loom de máximo 5 minutos explicando tu documento.
-En proceso
+https://drive.google.com/file/d/1KimTaJFIOBhjKS62bWCFKaZEM1fVLXvz/view?usp=sharing
 
 ### Documentos complementarios del proceso:
 https://drive.google.com/open?id=1JhvDIK9IR5jK1sZpfFUyquVhky7UU4qF
