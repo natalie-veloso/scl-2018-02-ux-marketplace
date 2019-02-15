@@ -7,7 +7,7 @@ El proyecto consta en una renovación de una página web existente que correspon
 ## Planeamiento y presupuesto
 
 <p align="center">
-   <img src="imagenes/presupuesto.jpg">
+   <img src="https://drive.google.com/file/d/1A4kWVlMjtTRVy9SpplYXS8UQeyNPYArT/view?usp=sharing">
 </p>
 
 ### Trello
@@ -37,12 +37,12 @@ Gracias a test con usuarios pudimos detectar los siguientes problemas a la hora 
 
 ### User persona
 <p align="center">
-   <img src="imagenes/user-persona.jpg">
+   <img src="https://imgur.com/rSFttPf">
 </p>
 
 ### Customer Journey Map (indicando pain y gain points)
 <p align="center">
-   <img src="imagenes/JourneyMap.jpg">
+   <img src="https://drive.google.com/file/d/1UPEn9ghHZerF5GsuuORhAFudA-EL1MPx/view?usp=sharing">
 
 ## Definición de la solución/producto
 
@@ -82,13 +82,16 @@ Los usuarios responden de manera rápida, captamos su atención, entregándoles 
 5) Una vez que realiza la reserva el usuario desde el sitio mismo recibe confirmación de rececpción de la reserva y que además recibirá un email de confirmación en su direccion de correo electrónico.
 
 ### Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus diseños con desarrolladores.
-En proceso
+https://app.zeplin.io/project/5c65ebde0c706a9ada589bed
 
 ### Un video en Loom de máximo 5 minutos explicando tu documento.
-En proceso
+https://drive.google.com/file/d/1KimTaJFIOBhjKS62bWCFKaZEM1fVLXvz/view?usp=sharing
 
 ### Documentos complementarios del proceso:
 https://drive.google.com/open?id=1JhvDIK9IR5jK1sZpfFUyquVhky7UU4qF
+
+### HTML, CSS y JS
+https://amdemic.github.io/scl-2018-02-ux-marketplace/
 
 ## Ux Designers:
 
